@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.1.0"
   },
-  "homepage": "${process.env.REACT_APP_BASE_URL}"
+  "homepage": "https://earlofenums.github.io/portfolio-app/"
 }
